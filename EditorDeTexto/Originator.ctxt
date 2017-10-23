@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Originator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Originator\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Originator()
+comment2.params=m
+comment2.target=void\ setMemento(Memento)
+comment3.params=
+comment3.target=Memento\ crearMemento()
+comment4.params=cadenaN
+comment4.target=void\ setCadena(java.lang.String)
+numComments=5

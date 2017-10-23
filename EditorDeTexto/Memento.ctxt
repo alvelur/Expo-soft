@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Memento
+comment0.text=\r\n\ Clase\ en\ la\ cual\ s\r\n\ \r\n\ @author\ dantivar\r\n\ @version\ 1\r\n
+comment1.params=cadenaAGuardar
+comment1.target=Memento(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCadena()
+numComments=3

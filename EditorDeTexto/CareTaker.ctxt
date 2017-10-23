@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CareTaker
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CareTaker\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=m
+comment1.target=void\ agregarMemento(Memento)
+comment2.params=index
+comment2.target=Memento\ getMemento(int)
+numComments=3
