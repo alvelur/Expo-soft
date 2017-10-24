@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=d\ h
+comment0.target=Cliente(java.lang.String,\ int)
+comment1.params=d
+comment1.target=void\ setDue\u00F1o(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDue\u00F1o()
+comment3.params=h
+comment3.target=void\ setHora(int)
+comment4.params=
+comment4.target=int\ getHora()
+numComments=5

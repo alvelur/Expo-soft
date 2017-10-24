@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ setHora(int)
+comment1.params=
+comment1.target=int\ getHora()
+comment2.params=d
+comment2.target=void\ setDue\u00F1o(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDue\u00F1o()
+comment4.params=
+comment4.target=Reserva\ clonar()
+numComments=5
